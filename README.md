@@ -1,6 +1,6 @@
 # Python-Projeler
 
-Patika.dev tarafından verilen proje ödevleri bulunmaktadır. 
+Patika.dev tarafından verilen 'Python Temel' proje ödevleri bulunmaktadır. 
 https://app.patika.dev/mervedemirden  
 
 1- Bir listeyi düzleştiren (flatten) fonksiyon yazın. Elemanları birden çok katmanlı listelerden ([[3],2] gibi) oluşabileceği gibi, non-scalar verilerden de oluşabilir. Örnek olarak:
